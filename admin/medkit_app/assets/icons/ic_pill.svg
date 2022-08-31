@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.676" height="202.679" viewBox="0 0 202.676 202.679">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.2" y1="0.111" x2="0.841" y2="0.856" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ad8ff"/>
+      <stop offset="1" stop-color="#5cc8ff"/>
+    </linearGradient>
+  </defs>
+  <g id="ic_pill" transform="translate(-3933 -786)">
+    <g id="Path_73" data-name="Path 73" transform="translate(3933 786)">
+      <path id="Path_5" data-name="Path 5" d="M101.528,202.056a101.377,101.377,0,0,1-20.282-2.046,100.491,100.491,0,0,1-78.2-78.221,101.517,101.517,0,0,1,0-40.521A100.5,100.5,0,0,1,81.267,3.042a101.516,101.516,0,0,1,40.521,0,100.494,100.494,0,0,1,78.225,78.227,101.515,101.515,0,0,1,0,40.521,100.49,100.49,0,0,1-78.225,78.225,101.324,101.324,0,0,1-20.26,2.041Z" transform="translate(-0.19 -0.19)" fill="url(#linear-gradient)"/>
+      <path id="Path_6" data-name="Path 6" d="M101.338,1.62a100.459,100.459,0,0,0-20.1,2.026A99.685,99.685,0,0,0,3.646,81.24a100.706,100.706,0,0,0,0,40.2,99.677,99.677,0,0,0,77.59,77.593,100.694,100.694,0,0,0,40.2,0,99.68,99.68,0,0,0,77.593-77.59,100.732,100.732,0,0,0,0-40.2,99.68,99.68,0,0,0-77.59-77.594,100.464,100.464,0,0,0-20.1-2.026m0-1.62A101.338,101.338,0,1,1,0,101.34,101.338,101.338,0,0,1,101.339,0Z" fill="#fff"/>
+    </g>
+    <g id="Group_26" data-name="Group 26" transform="translate(3968 821)">
+      <g id="Group_26-2" data-name="Group 26">
+        <path id="Path_51" data-name="Path 51" d="M95.317,236.753,39.7,292.785h0a37.231,37.231,0,0,0,52.474-.169L121.619,262.9Z" transform="translate(-28.8 -170.964)" fill="#e9f8ff"/>
+        <path id="Path_52" data-name="Path 52" d="M41.2,143.866,11.731,173.618a37.231,37.231,0,0,0,.169,52.474l55.628-56.021Z" transform="translate(-1 -104.272)" fill="#feffff"/>
+        <path id="Path_53" data-name="Path 53" d="M292.256,92.274a37.2,37.2,0,0,0-.169-52.474h0L237.5,94.728l26.308,26.139Z" transform="translate(-170.886 -29.069)" fill="#e9f8ff"/>
+        <path id="Path_54" data-name="Path 54" d="M198.643,1.7a36.925,36.925,0,0,0-26.2,10.9L144,41.189l9.884,9.83,4.957,4.929,11.492,11.408L224.92,12.428A37.036,37.036,0,0,0,198.643,1.7Z" transform="translate(-103.722 -1.699)" fill="#fff"/>
+        <path id="Path_30" d="M272.2,30.146c15.407-15.942,34.983-3.775,34.983-3.775" transform="translate(-195.812 -16.231)" fill="none" stroke="#f6fcff" stroke-linecap="round" stroke-width="8.086"/>
+        <path id="Ellipse_11" d="M1.969,0A1.969,1.969,0,1,1,0,1.969,1.969,1.969,0,0,1,1.969,0Z" transform="translate(70.052 16.339)" fill="#f6fcff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947468312170",
+    "project_id": "medicalkitapp",
+    "storage_bucket": "medicalkitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947468312170:android:8f67dbc50f5444f5e6b413",
+        "android_client_info": {
+          "package_name": "com.aria.medkit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947468312170-f6ahrphntpsslib01rhv8oq2llkinkj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aria.medkit_app",
+            "certificate_hash": "378523a2777fd644872ee89b8eea686d33ef962d"
+          }
+        },
+        {
+          "client_id": "947468312170-hkn13o2kaait6g7j8oqj7kgndnum8rj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbT9E0sgxHPZ9FmoDnQgrTAgh-mQMvzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947468312170-hkn13o2kaait6g7j8oqj7kgndnum8rj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
